@@ -1,11 +1,12 @@
 class Player : Character
 {
-    {
-        {Console.A, "moveLeft"},
-        { Console.D, "moveRight"},
-        { Console.W, "moveUp"},
-        { Console.S, "moveDown"}
-    
+    Dictionary<ConsoleKey, string> keyActionMap = new Dictionary<ConsoleKey, string>
+        {
+            { ConsoleKey.A, "moveLeft" },
+            { ConsoleKey.D, "moveRight" },
+            { ConsoleKey.W, "moveUp" },
+            { ConsoleKey.S, "moveDown" },
+            { ConsoleKey.C, "clone" }
     };
-
+    
 }
