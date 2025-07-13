@@ -41,7 +41,7 @@ namespace Bernecka_Chmurzynska
             }
 
             target.y = Math.Clamp(target.y, 0, level.GetHeight() - 1);
-            target.x = Math.Clamp(target.x, 0, level.GetRowWidith(target.y) - 1);
+            target.x = Math.Clamp(target.x, 0, level.GetRowWidth(target.y) - 1);
 
             if (level.GetCellVisuals(target.x, target.y) != '#')
             {
