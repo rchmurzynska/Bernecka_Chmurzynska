@@ -16,7 +16,7 @@ namespace Bernecka_Chmurzynska
         }
     }
 
-    class Invenory
+    class Inventory
     {
         private Dictionary<string, (Item item, int count)> items = new();
 
