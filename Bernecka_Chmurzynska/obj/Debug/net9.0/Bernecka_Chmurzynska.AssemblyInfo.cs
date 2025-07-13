@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bernecka_Chmurzynska")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+474fa7620dd2ce31886300dd19b51cf8c9ee2de5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd9e15fb29f6f9098c28716f9becdb71edfbe64e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bernecka_Chmurzynska")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bernecka_Chmurzynska")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
